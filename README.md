@@ -1,17 +1,16 @@
 ### Hi there 👋
+It's me, @baotran2207 !
 
-<!--
-**baotran2207/baotran2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+ 
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bao-tran-a33276b6/)](https://www.linkedin.com/in/bao-tran-a33276b6/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tranthanhbao2207@gmail.com)](mailto:tranthanhbao2207@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![baotran2207's GitHub stats](https://github-readme-stats.vercel.app/api?username=baotran2207&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
